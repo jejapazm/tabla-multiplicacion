@@ -1,0 +1,6 @@
+
+# archivos generados por el usuario
+output/*.txt
+
+# modulos de node
+node_modules/
