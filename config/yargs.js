@@ -1,6 +1,3 @@
-const { deepStrictEqual } = require('assert');
-const { describe } = require('yargs');
-
 const argv = require('yargs')
             .option('b', {
                 alias: 'base',
