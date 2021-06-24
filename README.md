@@ -25,7 +25,7 @@ node app -b 5 -h 10 -l
 
 # Opciones
 
-|Opción  | Opción formato largo |HTML                                 |
+|Opción  | Opción formato largo | Descripción                         |
 |--------|----------------------|-------------------------------------|
 | -b     | --base               |Es la base de la tabla de multiplicar|
 | -h     | --hasta              |Límite superior para el rango        |
